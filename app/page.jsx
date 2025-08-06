@@ -1,13 +1,14 @@
-import { MagneticButton } from './_components';
+import { Navbar } from './_layout';
 
 export const metadata = {
-  title: 'Home | Dennis Snellenberg',
+  title: 'Home | Mohd Ashar Shakeel',
 };
 
 export default function Home() {
   return (
     <>
-      <MagneticButton variant='primary'>Mohd Ashar </MagneticButton>
+      <Navbar />
+      {/* <Header /> */}
     </>
   );
 }
