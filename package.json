@@ -28,6 +28,7 @@
   "next": "14.0.4",
   "postcss-import": "^16.1.1",
   "postcss-preset-env": "^10.2.4",
+  "postcss-styled-syntax": "^0.7.1",
   "react": "^18",
   "react-dom": "^18",
   "tailwindcss-animate": "^1.0.7",
