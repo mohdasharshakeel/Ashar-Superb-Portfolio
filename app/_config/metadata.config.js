@@ -1,17 +1,21 @@
 export const rootMetadata = {
   title: {
-    template: '%s | Dennis Snellenberg',
-    default: 'Dennis Snellenberg • Freelance Designer & Developer',
+    template: '%s | Mohd Ashar Shakeel',
+    default: 'Mohd Ashar Shakeel • Full Stack Developer • DevOps',
   },
   description:
-    'Helping brands thrive in the digital world. Located in The Netherlands. Delivering tailor-made digital designs and building interactive websites from scratch. © Code by Dennis',
-  generator: 'Dennis Snellenberg',
-  applicationName: 'Dennis Snellenberg',
+    'Helping brands thrive in the digital world. Located in The India. Delivering tailor-made digital designs and building interactive websites from scratch With a touch of DevOps . © Code by Ashar',
+  generator: 'Mohd Ashar Shakeel',
+  applicationName: 'Mohd Ashar Shakeel',
   referrer: 'origin-when-cross-origin',
-  keywords: ['Design', 'Develope', 'Freelance'],
+  keywords: [ "Full Stack Developer",
+  "Frontend Developer",
+  "Backend Developer",
+  "DevOps",
+  "Web Developer"],
   authors: [
-    { name: 'Ali Bagheri', url: 'https://www.github.com/alibagheri2079' },
+    { name: 'Mohd Ashar Shakeel', url: 'https://github.com/mohdasharshakeel' },
   ],
-  creator: 'Ali Bagheri',
-  publisher: 'Ali Bagheri',
+  creator: 'Mohd Ashar Shakeel',
+  publisher: 'Mohd Ashar Shakeel',
 };
