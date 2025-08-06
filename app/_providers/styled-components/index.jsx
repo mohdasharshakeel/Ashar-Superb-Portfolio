@@ -10,9 +10,7 @@ import {
 
 import { theme } from './theme';
 
-/**
- * @param {import('react').PropsWithChildren}
- */
+/** @param {import('react').PropsWithChildren<unknown>} */
 export function StyledComponentsRegistry({ children }) {
   // Only create stylesheet once with lazy initial state
   // x-ref: https://reactjs.org/docs/hooks-reference.html#lazy-initial-state

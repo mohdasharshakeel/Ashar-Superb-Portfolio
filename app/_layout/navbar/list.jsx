@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { Dot } from 'lucide-react';
 
 import { Center, MagneticButton } from '@/app/_components';
-import { randomId } from '@/app/utils';
+import { randomId } from '@/app/_utils';
 import { navItems } from '@/app/_data';
 
 export function NavbarList() {
