@@ -24,6 +24,7 @@
   "prepare": "husky install"
  },
  "dependencies": {
+  "class-variance-authority": "^0.7.1",
   "clsx": "^2.1.1",
   "cssnano": "^7.1.0",
   "framer-motion": "^12.23.12",
