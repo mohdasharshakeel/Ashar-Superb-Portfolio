@@ -1,3 +1,4 @@
+/** @type {import('next').Metadata} */
 export const rootMetadata = {
   title: {
     template: '%s | Mohd Ashar Shakeel',
@@ -8,11 +9,13 @@ export const rootMetadata = {
   generator: 'Mohd Ashar Shakeel',
   applicationName: 'Mohd Ashar Shakeel',
   referrer: 'origin-when-cross-origin',
-  keywords: [ "Full Stack Developer",
-  "Frontend Developer",
-  "Backend Developer",
-  "DevOps",
-  "Web Developer"],
+  keywords: [
+    'Full Stack Developer',
+    'Frontend Developer',
+    'Backend Developer',
+    'DevOps',
+    'Web Developer',
+  ],
   authors: [
     { name: 'Mohd Ashar Shakeel', url: 'https://github.com/mohdasharshakeel' },
   ],
