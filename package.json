@@ -1,52 +1,52 @@
 {
-  "name": "Mohd-Ashar-Shakeel-Portfolio",
-  "title": "Mohd Ashar Shakeel • Full Stack Developer • DevOps",
-  "description": "Helping brands thrive in the digital world. Located in The India. Delivering tailor-made digital designs and building interactive websites from scratch With a touch of DevOps . © Code by Ashar",
-  "author": {
-    "name": "Mohd Ashar Shakeel",
-    "email": "mohdasharshakeel@gmail.com",
-    "url": "https://github.com/mohdasharshakeel"
-  },
-  "keywords": [
-    "Full Stack Developer",
-    "Frontend Developer",
-    "Backend Developer",
-    "DevOps",
-    "Web Developer"
-  ],
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "prepare": "husky install"
-  },
-  "dependencies": {
-    "cssnano": "^7.1.0",
-    "next": "14.0.4",
-    "postcss-import": "^16.1.1",
-    "postcss-preset-env": "^10.2.4",
-    "react": "^18",
-    "react-dom": "^18"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.0.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.0.4",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-import-resolver-alias": "^1.1.2",
-    "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-tailwindcss": "^3.13.0",
-    "husky": "^8.0.0",
-    "lint-staged": "^15.2.0",
-    "postcss": "^8",
-    "prettier": "^3.1.1",
-    "stylelint": "^16.0.2",
-    "stylelint-config-standard": "^35.0.0",
-    "stylelint-config-tailwindcss": "^0.0.7",
-    "stylelint-order": "^6.0.4",
-    "tailwindcss": "^3.3.0"
-  }
+ "name": "mohd-ashar-shakeel-portfolio",
+ "title": "Mohd Ashar Shakeel • Full Stack Developer • DevOps",
+ "description": "Helping brands thrive in the digital world. Located in The India. Delivering tailor-made digital designs and building interactive websites from scratch With a touch of DevOps . © Code by Ashar",
+ "author": {
+  "name": "Mohd Ashar Shakeel",
+  "email": "mohdasharshakeel@gmail.com",
+  "url": "https://github.com/mohdasharshakeel"
+ },
+ "keywords": [
+  "Full Stack Developer",
+  "Frontend Developer",
+  "Backend Developer",
+  "DevOps",
+  "Web Developer"
+ ],
+ "version": "0.1.0",
+ "private": true,
+ "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint",
+  "prepare": "husky install"
+ },
+ "dependencies": {
+  "cssnano": "^7.1.0",
+  "next": "14.0.4",
+  "postcss-import": "^16.1.1",
+  "postcss-preset-env": "^10.2.4",
+  "react": "^18",
+  "react-dom": "^18"
+ },
+ "devDependencies": {
+  "autoprefixer": "^10.4.21",
+  "eslint": "^8",
+  "eslint-config-next": "14.0.4",
+  "eslint-config-prettier": "^9.1.0",
+  "eslint-import-resolver-alias": "^1.1.2",
+  "eslint-plugin-import": "^2.29.1",
+  "eslint-plugin-tailwindcss": "^3.13.0",
+  "husky": "^8.0.0",
+  "lint-staged": "^15.2.0",
+  "postcss": "^8.5.6",
+  "prettier": "^3.1.1",
+  "stylelint": "^16.0.2",
+  "stylelint-config-standard": "^35.0.0",
+  "stylelint-config-tailwindcss": "^0.0.7",
+  "stylelint-order": "^6.0.4",
+  "tailwindcss": "^3.4.17"
+ }
 }
