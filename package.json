@@ -1,12 +1,28 @@
 {
-  "name": "dennis-snellenberg-portfolio",
+  "name": "Mohd-Ashar-Shakeel-Portfolio",
+  "title": "Mohd Ashar Shakeel • Full Stack Developer • DevOps",
+  "description": "Helping brands thrive in the digital world. Located in The India. Delivering tailor-made digital designs and building interactive websites from scratch With a touch of DevOps . © Code by Ashar",
+  "author": {
+    "name": "Mohd Ashar Shakeel",
+    "email": "mohdasharshakeel@gmail.com",
+    "url": "https://github.com/mohdasharshakeel"
+  },
+  "keywords": [
+    "Full Stack Developer",
+    "Frontend Developer",
+    "Backend Developer",
+    "DevOps",
+    "Web Developer",
+    "Portfolio"
+  ],
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prepare": "husky install"
   },
   "dependencies": {
     "next": "14.0.4",
@@ -21,14 +37,14 @@
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-tailwindcss": "^3.13.0",
-    "husky": "^9.1.7",
-    "lint-staged": "^16.1.4",
+    "lint-staged": "^15.2.0",
     "postcss": "^8",
     "prettier": "^3.1.1",
-    "stylelint": "^16.23.0",
+    "stylelint": "^16.0.2",
     "stylelint-config-standard": "^35.0.0",
-    "stylelint-config-tailwindcss": "^1.0.0",
-    "stylelint-order": "^7.0.0",
-    "tailwindcss": "^3.3.0"
+    "stylelint-config-tailwindcss": "^0.0.7",
+    "stylelint-order": "^6.0.4",
+    "tailwindcss": "^3.3.0",
+    "husky": "^8.0.0"
   }
 }
