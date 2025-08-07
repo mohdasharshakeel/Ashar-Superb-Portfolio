@@ -1,6 +1,8 @@
 'use client';
 
+import { CldImage, CldVideoPlayer } from 'next-cloudinary';
 
+import { Center } from '@/components';
 
 /**
  * @param {Object} props
